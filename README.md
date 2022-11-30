@@ -1,2 +1,2 @@
-# merge
+REMOTE
 merge conflit
