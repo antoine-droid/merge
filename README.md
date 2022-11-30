@@ -1,2 +1,2 @@
-# merge
+LOCAL
 merge conflit
